@@ -10,9 +10,9 @@ Calculator as a Jupyter Kernel implemented with Xeus
 
 Launch the Jupyter notebook with `jupyter notebook` or Jupyter lab with `jupyter lab` and launch a new notebook by selecting the **xeus-calc** kernel.
 
-**Code execution and variable display**:
+**Basic calculation**:
 
-![Basic code execution](xeus-calc2.gif)
+![Basic calculation](xeus-calc2.gif)
 
 
 
